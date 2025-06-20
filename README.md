@@ -1,1 +1,1 @@
-# task3
+This project is a Python-based Rock, Paper, Scissors game where the user plays against the computer. The game randomly generates the computer’s choices and compares them with the user’s input to determine the winner of each round. It also keeps track of and displays the number of wins for both the user and the computer throughout the game session.
